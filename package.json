@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "build": "node index.js"
+    },
+    "dependencies": {
+        "@hashlips-lab/art-engine": "2.0.0-alpha4"
+    }
+}

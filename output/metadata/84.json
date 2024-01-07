@@ -1,0 +1,34 @@
+{
+  "description": "",
+  "image": "CHANGE69ce8495bfe4967092620ee0e40e0dc35c4189f9.png",
+  "name": "",
+  "dna": "69ce8495bfe4967092620ee0e40e0dc35c4189f9",
+  "uid": "84",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "bg",
+      "value": "Bg 14"
+    },
+    {
+      "trait_type": "body",
+      "value": "Body (3)"
+    },
+    {
+      "trait_type": "cheeck",
+      "value": "Cheek 3"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Eyes (2)"
+    },
+    {
+      "trait_type": "face",
+      "value": "face4"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Mouth"
+    }
+  ]
+}
